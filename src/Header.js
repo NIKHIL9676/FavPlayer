@@ -17,9 +17,9 @@ export default function Example(){
 return (
 <div>
   <Navbar
-    color="light"
+    color="dark"
     expand="md"
-    light
+    dark
   >
     <NavbarBrand href="/">
       ReactStrap
