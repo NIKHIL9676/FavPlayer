@@ -6,7 +6,7 @@ let gmail="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHx
 
 var linkdin="https://www.linkedin.com/in/nagarajnikhil"
 
-export default  class Function  extends Component{
+export default  class Footer  extends Component{
 
 
 
